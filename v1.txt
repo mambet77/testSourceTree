@@ -4,4 +4,12 @@ das ist Line 3
 das ist Line 4 nach dem GitFlow
 das ist Line 5 
 das ist Line 6 nach Zweig
+<<<<<<< HEAD
 das ist Line 7
+=======
+das ist Line 7
+eig
+das ist Line 8
+eig
+das ist Line 9
+>>>>>>> feature/das_funktion_2
